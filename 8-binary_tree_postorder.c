@@ -3,7 +3,7 @@
 /**
  * binary_tree_postorder - goes through binary tree using post-order traversal
  * @tree: this is a tree... with leaves?
- * @func: a pointer 
+ * @func: a pointer
 */
 
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
